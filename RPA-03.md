@@ -23,7 +23,7 @@ Also determines priority of tasks or processes for a business.
 i.e. How much time is consumed? or Would automation improve quality
 of output errors?
 
-*Design 
+* Design 
 
 This phase defining and modeling the actual task or process to be automated 
 and maps any dependencies that the automation process might have like the 
