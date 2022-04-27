@@ -38,7 +38,7 @@ The RPA lifecyle is the structure of how automation is delivered and executed. I
 
 * Final stage where the bot is continously assessed for performance and runtime errors.
 
-![](https://cdn.pixabay.com/photo/2015/12/09/14/13/robot-1084776_960_720.jpg)
+![](http://datamation.com/wp-content/uploads/2020/12/top-15-robotic-process-automation-rpa-companies_5fce9b19ec985.png)
 
 # a list of the top 10 vendors of rpa
 
@@ -73,4 +73,6 @@ https://www.blueprintsys.com/blog/rpa/rpa-lifecycle-management#:~:text=The%20RPA
 https://www.uipath.com/rpa/robotic-process-automation
 
 https://research.aimultiple.com/rpa-tools/
+
+https://www.datamation.com/artificial-intelligence/top-15-robotic-process-automation-rpa-companies/
 
