@@ -23,7 +23,7 @@ Also determines priority of tasks or processes for a business. i.e. How much tim
 
 3. Design 
 
-* a blueprint for the RPA developer like a *PDD* or *process design document*.
+* a blueprint for the RPA developer like a **PDD** or **process design document**.
 Defines and models the actual task or process to be automated and maps any dependencies that the automation process might have like the systems it interacts with.
 
 4. Development and Testing
@@ -37,6 +37,34 @@ Defines and models the actual task or process to be automated and maps any depen
 6. Monitoring and Change
 
 * Final stage where the bot is continously assessed for performance and runtime errors.
+
+![]https://cdn.pixabay.com/photo/2015/12/09/14/13/robot-1084776_960_720.jpg
+
+# a list of the top 10 vendors of rpa
+
+1.  **Uipath** the key features are the extensive partner network, Advanced user interace, and a newer cloud solution
+
+2. **Automation Anywhere** and some of their key features are being an industry leading partner network, their user interface, and their accessible cost structure
+
+3. **Edgeverve** their key features are combining automation and AI, their customer engagement, and the attended customer service/call center
+
+4. **Blue prism** and their key features are a strong vertical focus, graphical user interface, and a commitment to AI
+
+5. **Softomotive** their key features are geared to scale up, two levels of products, and expected to grow
+
+6. **Workfusion** their key features integrated bpm, developed analytics, and an opensource database
+
+7. **Kofax** their key features are easy to data transport, lower need for vdi, and rest/soap interface
+
+8. **Nice** their key features are specialized attended, real time call center, and automation coupled with analytics
+
+9. **Monday** their key features are includes third party bots, encryption, and diverse pre-built elements
+
+10. **Pegasystems** and their features are easy to deploy, visual studio scripting, and muti-use robots.
+
+
+there are plenty of more vendors but these were just a few of the top ones.
+
 
 ## References
 
