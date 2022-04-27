@@ -38,7 +38,7 @@ Defines and models the actual task or process to be automated and maps any depen
 
 * Final stage where the bot is continously assessed for performance and runtime errors.
 
-![]https://cdn.pixabay.com/photo/2015/12/09/14/13/robot-1084776_960_720.jpg
+![](https://cdn.pixabay.com/photo/2015/12/09/14/13/robot-1084776_960_720.jpg)
 
 # a list of the top 10 vendors of rpa
 
