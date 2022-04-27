@@ -22,7 +22,8 @@ i.e. How much time is consumed? or Would automation improve quality
 of output errors?
 
 * Design 
-Design phase is a blueprint for the RPA developer like a *PDD* or *process 
+
+a blueprint for the RPA developer like a *PDD* or *process 
 design document*.
 Defines and models the actual task or process to be automated 
 and maps any dependencies that the automation process might have like the 
