@@ -12,36 +12,29 @@ The RPA lifecyle is the structure of how automation is delivered and executed. I
 
 ### It is a framework for process automation that several phases:
 
-* RPA Candidate Identification 
-how RPA stakeholders identify business processes and tasks for
- automation. Can be used to discover candidates for task mining.
+1. RPA Candidate Identification 
+* how RPA stakeholders identify business processes and tasks for automation. Can be used to discover candidates for task mining.
 
-* Assessment & Prioritization
-how automation candidates are assessed for design and development. For ex
-ample, if a task or process requires too many decisions or uses too many
-systems, it may not be a good candidate for RPA.
+2. Assessment & Prioritization 
 
-Also determines priority of tasks or processes for a business.
-i.e. How much time is consumed? or Would automation improve quality
-of output errors?
+* how automation candidates are assessed for design and development. For example, if a task or process requires too many decisions or uses too many systems, it may not be a good candidate for RPA.
 
-* Design 
+Also determines priority of tasks or processes for a business. i.e. How much time is consumed? or Would automation improve quality of output errors?
 
-a blueprint for the RPA developer like a *PDD* or *process 
-design document*.
-Defines and models the actual task or process to be automated 
-and maps any dependencies that the automation process might have like the 
-systems it interacts with.
+3. Design 
 
-* Development and Testing
+* a blueprint for the RPA developer like a *PDD* or *process design document*.
+Defines and models the actual task or process to be automated and maps any dependencies that the automation process might have like the systems it interacts with.
 
-The RPA developer builds the robot according to design phases' requirements and the QA team tests the automated process for testing and staging to ensure that the program executes properly.
+4. Development and Testing
 
-* Deployment
+* The RPA developer builds the robot according to design phases' requirements and the QA team tests the automated process for testing and staging to ensure that the program executes properly.
 
-The bot is deployed into production and runs as configured by the RPA tools orchestrator.
+5. Deployment
 
-* Monitoring and Change
+* The bot is deployed into production and runs as configured by the RPA tools orchestrator.
 
-Final stage where the bot is continously assessed for performance and runtime errors.
+6. Monitoring and Change
+
+* Final stage where the bot is continously assessed for performance and runtime errors.
 
