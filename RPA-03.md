@@ -1,5 +1,8 @@
 # RPA  Notes
-RPA is a software technology that makes it easier for humans to manage mundane workflow processes. It stands for Robotic Process Automation.
+
+-RPA stands for Robotic Process Automation.
+-It is software technology that makes it easy to build, deploy, and manage= software robots that emulate human's actions interacting with digital systems and software. 
+-These robots can do a wide range of things in a faster much consistent manner than humans. Examples of such activities are: complete keystrokes, navigate systems, understand what's on the screen identify and extract data etc. 
 
 ## RPA Lifecycle
 ![](https://intellipaat.com/mediaFiles/2019/04/Life-Cycle-of-RPA.png)
