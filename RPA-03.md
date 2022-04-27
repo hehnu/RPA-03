@@ -19,12 +19,12 @@ The RPA lifecyle is the structure of how automation is delivered and executed. I
 
 * how automation candidates are assessed for design and development. For example, if a task or process requires too many decisions or uses too many systems, it may not be a good candidate for RPA.
 
-Also determines priority of tasks or processes for a business. i.e. How much time is consumed? or Would automation improve quality of output errors?
+* Also determines priority of tasks or processes for a business. i.e. How much time is consumed? or Would automation improve quality of output errors?
 
 3. Design 
 
 * a blueprint for the RPA developer like a **PDD** or **process design document**.
-Defines and models the actual task or process to be automated and maps any dependencies that the automation process might have like the systems it interacts with.
+* Defines and models the actual task or process to be automated and maps any dependencies that the automation process might have like the systems it interacts with.
 
 4. Development and Testing
 
