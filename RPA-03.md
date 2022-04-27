@@ -38,3 +38,7 @@ Defines and models the actual task or process to be automated and maps any depen
 
 * Final stage where the bot is continously assessed for performance and runtime errors.
 
+### References
+
+https://www.blueprintsys.com/blog/rpa/rpa-lifecycle-management#:~:text=The%20RPA%20lifecycle%20is%20the,and%20its%20continuous%20monitoring%20thereafter
+
