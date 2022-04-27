@@ -70,3 +70,7 @@ there are plenty of more vendors but these were just a few of the top ones.
 
 https://www.blueprintsys.com/blog/rpa/rpa-lifecycle-management#:~:text=The%20RPA%20lifecycle%20is%20the,and%20its%20continuous%20monitoring%20thereafter
 
+https://www.uipath.com/rpa/robotic-process-automation
+
+https://research.aimultiple.com/rpa-tools/
+
