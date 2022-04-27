@@ -38,9 +38,13 @@ The RPA lifecyle is the structure of how automation is delivered and executed. I
 
 * Final stage where the bot is continously assessed for performance and runtime errors.
 
-![](http://datamation.com/wp-content/uploads/2020/12/top-15-robotic-process-automation-rpa-companies_5fce9b19ec985.png)
+
 
 # a list of the top 10 vendors of rpa
+
+
+![](http://datamation.com/wp-content/uploads/2020/12/top-15-robotic-process-automation-rpa-companies_5fce9b19ec985.png)
+
 
 1.  **Uipath** the key features are the extensive partner network, Advanced user interace, and a newer cloud solution
 
