@@ -1,8 +1,8 @@
 # RPA  Notes
 
 + RPA stands for Robotic Process Automation.
-+ It is software technology that makes it easy to build, deploy, and manage= software robots that emulate human's actions interacting with digital systems and software. 
-+ These robots can do a wide range of things in a faster much consistent manner than humans. Examples of such activities are: complete keystrokes, navigate systems, understand what's on the screen identify and extract data etc. 
++ It is software technology that makes it easy to build, deploy, and manage software robots that emulate human's actions interacting with digital systems and software. 
++ These robots can do a wide range of things in a faster much consistent manner than humans. Examples of such activities are: recognizing complete keystrokes, navigating systems, and extracting data. 
 
 ## RPA Lifecycle
 
@@ -23,7 +23,7 @@ The RPA lifecyle is the structure of how automation is delivered and executed. I
 
 3. Design 
 
-* a blueprint for the RPA developer like a **PDD** or **process design document**.
+* a blueprint for the RPA developer through **PDD** or **process design document**.
 * Defines and models the actual task or process to be automated and maps any dependencies that the automation process might have like the systems it interacts with.
 
 4. Development and Testing
