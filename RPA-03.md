@@ -8,9 +8,9 @@
 
 ![](https://intellipaat.com/mediaFiles/2019/04/Life-Cycle-of-RPA.png)
 
-The RPA lifecyle is the structure of how automation is delivered and executed. It is the phases that a bot goes through from start to finish.
+The RPA lifecyle is the structure of how automation is delivered and executed. It describes the phases that a bot goes through from start to finish.
 
-### It is a framework for process automation that several phases:
+### It is a framework for process automation that has several phases:
 
 1. RPA Candidate Identification 
 * how RPA stakeholders identify business processes and tasks for automation. Can be used to discover candidates for task mining.
