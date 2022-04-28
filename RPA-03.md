@@ -1,4 +1,4 @@
-# RPA  Notes
+# RPA  Documentation
 
 + RPA stands for Robotic Process Automation.
 + It is software technology that makes it easy to build, deploy, and manage software robots that emulate human's actions interacting with digital systems and software. 
